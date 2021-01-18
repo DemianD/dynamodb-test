@@ -1,0 +1,10 @@
+{
+  "name": "dynamodb-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.3.0"
+  }
+}
